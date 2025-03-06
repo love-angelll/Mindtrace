@@ -57,9 +57,9 @@
 - Программирование мини-игр
 
 ## Репозиторий
-[Ссылка на GitHub](https://github.com/love-angelll/Mindtrace)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Project%20Mindtrace-24292e?style=for-the-badge&logo=github)](https://github.com/love-angelll/Mindtrace)
 
-## Контакты
-Автор: Иван Фрунза  
-Instagram: @iv.frunza
-Email: ivan.frunza.os@gmail.com
+
+## Содействие
+
+
