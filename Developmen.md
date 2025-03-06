@@ -1,4 +1,4 @@
-# Mindtrace [Plan and Tree]
+# Mindtrace [Plan]
 >[!IMPORTANT]
 > Важно , следовать хотя бы близко этому плану...
 
