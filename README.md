@@ -11,8 +11,6 @@
 [![Pull Requests](https://img.shields.io/github/issues-pr/love-angelll/Mindtrace?style=for-the-badge)](https://github.com/love-angelll/Mindtrace/pulls)
 [![Issues](https://img.shields.io/github/issues/love-angelll/Mindtrace?style=for-the-badge)](https://github.com/love-angelll/Mindtrace/issues)
 ![Version](https://img.shields.io/badge/Version-0.1_alpha-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge)
-![Contributors](https://img.shields.io/github/contributors/love-angelll/Mindtrace?style=for-the-badge)
 [![Commits](https://img.shields.io/github/last-commit/love-angelll/Mindtrace?style=for-the-badge)](https://github.com/love-angelll/Mindtrace/commits/main)
 [![Repo Size](https://img.shields.io/github/repo-size/love-angelll/Mindtrace?style=for-the-badge)](https://github.com/love-angelll/Mindtrace)
 
