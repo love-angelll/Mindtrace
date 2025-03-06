@@ -3,15 +3,23 @@
 <div align="center">
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Mindtrace-24292e?style=for-the-badge&logo=github)](https://github.com/love-angelll/Mindtrace)
+
 ![Version](https://img.shields.io/badge/Version-0.1_alpha-blue?style=for-the-badge)
+
 ![Status](https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge)
+
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://github.com/love-angelll/Mindtrace/blob/main/LICENSE)
+
 [![GitHub Stars](https://img.shields.io/github/stars/love-angelll/Mindtrace?style=for-the-badge)](https://github.com/love-angelll/Mindtrace/stargazers)
+
 [![Forks](https://img.shields.io/github/forks/love-angelll/Mindtrace?style=for-the-badge)](https://github.com/love-angelll/Mindtrace/network/members)
+
 [![Pull Requests](https://img.shields.io/github/issues-pr/love-angelll/Mindtrace?style=for-the-badge)](https://github.com/love-angelll/Mindtrace/pulls)
+
 [![Issues](https://img.shields.io/github/issues/love-angelll/Mindtrace?style=for-the-badge)](https://github.com/love-angelll/Mindtrace/issues)
-![Version](https://img.shields.io/badge/Version-0.1_alpha-blue?style=for-the-badge)
-[![Commits](https://img.shields.io/github/last-commit/love-angelll/Mindtrace?style=for-the-badge)](https://github.com/love-angelll/Mindtrace/commits/main)
+
+![Version](https://img.shields.io/badge/Version-0.0_alpha-blue?style=for-the-badge)
+
 [![Repo Size](https://img.shields.io/github/repo-size/love-angelll/Mindtrace?style=for-the-badge)](https://github.com/love-angelll/Mindtrace)
 
 </div>
