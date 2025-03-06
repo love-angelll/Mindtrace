@@ -1,4 +1,4 @@
-# Mindtrace
+# Mindtrace [Plan and Tree]
 >[!IMPORTANT]
 > Древо проекта и План разработки
 
