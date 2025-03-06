@@ -65,9 +65,6 @@
 - Озвучка аудиофайлов
 - Программирование мини-игр
 
-## Репозиторий
-[![GitHub Repo](https://img.shields.io/badge/GitHub-%20Mindtrace-24292e?style=for-the-badge&logo=github)](https://github.com/love-angelll/Mindtrace)
-
 
 ## Содействие
 
