@@ -1,10 +1,12 @@
 # Mindtrace (След разума)
 
 <div align="center">
+
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Mindtrace-24292e?style=for-the-badge&logo=github)](https://github.com/love-angelll/Mindtrace)
 ![Version](https://img.shields.io/badge/Version-0.1_alpha-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://github.com/love-angelll/Mindtrace/blob/main/LICENSE)
+
 </div>
 
 ### Описание
