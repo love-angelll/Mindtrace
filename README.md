@@ -73,12 +73,9 @@
 
 ### 🔑 Лицензия
 
-<div align="center">
-
 [![Лицензия CC BY-NC-SA](https://img.shields.io/badge/Лицензия-CC_BY--NC--SA_4.0-blue?style=for-the-badge&logo=creativecommons)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![Лицензия Автора](https://img.shields.io/badge/LICENSE-AUTHOR-green?style=for-the-badge)](https://github.com/love-angelll/Mindtrace/blob/main/LICENSE)
 
-</div>
+[![Лицензия Автора](https://img.shields.io/badge/LICENSE-AUTHOR-green?style=for-the-badge)](https://github.com/love-angelll/Mindtrace/blob/main/LICENSE)
 
 
 ## Содействие
