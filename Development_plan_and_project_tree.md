@@ -1,6 +1,6 @@
 # Mindtrace [Plan and Tree]
 >[!IMPORTANT]
-> Древо проекта и План разработки
+> Важно , следовать частично поставленому плану...
 
 ```plaintext
 Mindtrace/
